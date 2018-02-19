@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelCenterApp", "FuelCenterLogging\FuelCenterApp.csproj", "{979EC401-A91B-461F-9857-FF94A546E1B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLibrary", "..\SharedLibrary\SharedLibrary\ModelLibrary.csproj", "{DEFB224C-A708-4833-9DC2-1AEBB90D40D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{979EC401-A91B-461F-9857-FF94A546E1B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979EC401-A91B-461F-9857-FF94A546E1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979EC401-A91B-461F-9857-FF94A546E1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979EC401-A91B-461F-9857-FF94A546E1B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFB224C-A708-4833-9DC2-1AEBB90D40D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFB224C-A708-4833-9DC2-1AEBB90D40D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFB224C-A708-4833-9DC2-1AEBB90D40D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFB224C-A708-4833-9DC2-1AEBB90D40D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

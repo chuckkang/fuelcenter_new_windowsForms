@@ -1,0 +1,14 @@
+c:\users\traktor\documents\visual studio 2015\Projects\FuelCenterLogging\FuelCenterLogging\bin\Debug\FuelCenterLogging.exe.config
+c:\users\traktor\documents\visual studio 2015\Projects\FuelCenterLogging\FuelCenterLogging\bin\Debug\FuelCenterLogging.exe
+c:\users\traktor\documents\visual studio 2015\Projects\FuelCenterLogging\FuelCenterLogging\bin\Debug\FuelCenterLogging.pdb
+c:\users\traktor\documents\visual studio 2015\Projects\FuelCenterLogging\FuelCenterLogging\obj\Debug\FuelCenterLogging.csprojResolveAssemblyReference.cache
+c:\users\traktor\documents\visual studio 2015\Projects\FuelCenterLogging\FuelCenterLogging\obj\Debug\MainWindow.g.cs
+c:\users\traktor\documents\visual studio 2015\Projects\FuelCenterLogging\FuelCenterLogging\obj\Debug\App.g.cs
+c:\users\traktor\documents\visual studio 2015\Projects\FuelCenterLogging\FuelCenterLogging\obj\Debug\FuelCenterLogging_MarkupCompile.cache
+c:\users\traktor\documents\visual studio 2015\Projects\FuelCenterLogging\FuelCenterLogging\obj\Debug\FuelCenterLogging_MarkupCompile.lref
+c:\users\traktor\documents\visual studio 2015\Projects\FuelCenterLogging\FuelCenterLogging\obj\Debug\MainWindow.baml
+c:\users\traktor\documents\visual studio 2015\Projects\FuelCenterLogging\FuelCenterLogging\obj\Debug\FuelCenterLogging.g.resources
+c:\users\traktor\documents\visual studio 2015\Projects\FuelCenterLogging\FuelCenterLogging\obj\Debug\FuelCenterLogging.Properties.Resources.resources
+c:\users\traktor\documents\visual studio 2015\Projects\FuelCenterLogging\FuelCenterLogging\obj\Debug\FuelCenterLogging.csproj.GenerateResource.Cache
+c:\users\traktor\documents\visual studio 2015\Projects\FuelCenterLogging\FuelCenterLogging\obj\Debug\FuelCenterLogging.exe
+c:\users\traktor\documents\visual studio 2015\Projects\FuelCenterLogging\FuelCenterLogging\obj\Debug\FuelCenterLogging.pdb
